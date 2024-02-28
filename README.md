@@ -1,10 +1,10 @@
 ### Hi there 👋🏽
 
 <a href="https://temak.dev">
-  <img align="center" src="https://github-profile-stats-sooty.vercel.app/api?username=git-temak&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-stats-peach-sigma.vercel.app/api?username=git-temak&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://temak.dev">
-  <img align="center" src="https://github-profile-stats-sooty.vercel.app/api/top-langs/?username=git-temak&layout=compact&langs_count=6&theme=radical" />
+  <img align="center" src="https://github-stats-peach-sigma.vercel.app/api/top-langs/?username=git-temak&layout=compact&langs_count=6&theme=radical" />
 </a>
 <!--
 **git-temak/git-temak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
