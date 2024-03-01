@@ -1,7 +1,7 @@
 ### Hi there 👋🏽
-<br />
 
-I'm a software developer and SEO specialist with an eye for good design.
+I'm Timi, a software developer and SEO specialist with an eye for good design.
+<br />
 
 **About me**
 
@@ -11,6 +11,8 @@ I'm a software developer and SEO specialist with an eye for good design.
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about Custom WordPress Development, Marketing Strategies, and Product Development
 - 📫 How to reach me: hi@temak.dev
+
+<br />
 
 <a href="https://temak.dev">
   <img align="center" src="https://github-stats-peach-sigma.vercel.app/api/top-langs/?username=git-temak&hide=html&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&theme=radical" />
