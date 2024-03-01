@@ -12,6 +12,11 @@ I'm Timi, a software developer and SEO specialist with an eye for good design.
 - 💬 Ask me about Custom WordPress Development, Marketing Strategies, and Product Development
 - 📫 How to reach me: hi@temak.dev
 
+<code><img height="20" alt="WordPress" src="wp.svg"></code>
+<code><img height="20" alt="PHP" src="php.svg"></code>
+<code><img height="20" alt="JavaScript" src="js.svg"></code>
+<code><img height="20" alt="Docker" src="docker.svg"></code>
+
 <br />
 
 <a href="https://temak.dev">
